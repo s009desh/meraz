@@ -1,6 +1,6 @@
 public class HelloWorld {
   public static void main(String[] args) {
-	System.out.println("atomic habbits");
+	System.out.println("just kidding");
   }
 }
 
